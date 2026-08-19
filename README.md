@@ -1,3 +1,5 @@
+## Descrição:
+
 O objetivo deste exercício é fazer praticar o uso das tags relacionadas a tabelas. Para isso você deverá criar a tabela abaixo usando apenas HTML:
 
 ![horário escolhar](horario.png)
@@ -8,7 +10,7 @@ O objetivo deste exercício é fazer praticar o uso das tags relacionadas a tabe
 * src/css/estilo.css -> quando for necessário alterar CSS
 * src/js/script.js -> quando for necessário alterar JavaScript
 
-A seguir siga as instruções:
+## Instruções:
 
 1. Use a tag `<table>` para criar uma tabela.
 1. Use a tag `<caption>` para adicionar uma legenda à sua tabela.
